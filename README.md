@@ -1,6 +1,6 @@
 # 1secmail
 stable temporary mail api service (1secmail) , implemented well into python.
-Generate Temp Mail from the comform of your terminal.
+Generate Temp Mail from the comfort of your terminal.
 
 ### Features
 - Generate a custom e-mail
