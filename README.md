@@ -7,9 +7,9 @@ Generate Temp Mail from the comform of your terminal.
 - Get a randomly generated email
 
 ### Usage 
-- Git Clone the repo **git clone https://github.com/adhiraj-ranjan/1secmail**
-- Install Requests using **pip install requests** or **pip install -r requirements.txt**
-- run using **python/python3 main.py**
+- Git Clone the repo **`git clone https://github.com/adhiraj-ranjan/1secmail`**
+- Install Requests using **`pip install requests** or **pip install -r requirements.txt`**
+- run using **`python/python3 main.py`**
 
 ### Find Me on :
 <p align="left">
